@@ -1,6 +1,6 @@
-package com.sy.rpc.socket_bio.server.impl;
+package com.sy.rpc.socket.server.impl;
 
-import com.sy.rpc.socket_bio.server.RpcServer;
+import com.sy.rpc.socket.server.RpcServer;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

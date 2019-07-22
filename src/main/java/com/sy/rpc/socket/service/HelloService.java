@@ -1,4 +1,4 @@
-package com.sy.rpc.socket_bio.service;
+package com.sy.rpc.socket.service;
 
 /**
  * @Author: dushiyu
@@ -6,5 +6,6 @@ package com.sy.rpc.socket_bio.service;
  * @Version 1.0
  */
 public interface HelloService {
+
     String sayHi(String name);
 }

@@ -1,6 +1,6 @@
-package com.sy.rpc.socket_bio.service.impl;
+package com.sy.rpc.socket.service.impl;
 
-import com.sy.rpc.socket_bio.service.HelloService;
+import com.sy.rpc.socket.service.HelloService;
 
 /**
  * @Author: dushiyu

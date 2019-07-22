@@ -1,11 +1,11 @@
-package com.sy.rpc.socket_bio.test;
+package com.sy.rpc.socket.test;
 
 
-import com.sy.rpc.socket_bio.client.RpcClient;
-import com.sy.rpc.socket_bio.server.RpcServer;
-import com.sy.rpc.socket_bio.server.impl.RpcServiceImpl;
-import com.sy.rpc.socket_bio.service.HelloService;
-import com.sy.rpc.socket_bio.service.impl.HelloServiceImpl;
+import com.sy.rpc.socket.client.RpcClient;
+import com.sy.rpc.socket.server.RpcServer;
+import com.sy.rpc.socket.server.impl.RpcServiceImpl;
+import com.sy.rpc.socket.service.HelloService;
+import com.sy.rpc.socket.service.impl.HelloServiceImpl;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
