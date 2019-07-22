@@ -1,5 +1,5 @@
 简单的RPC调用demo
-
+![image](https://github.com/shiyudu-cloud/sy-rpc-demo/tree/master/static/Rpc.png)
 一、RPC框架的实现
     上面介绍了RPC的核心原理：RPC能够让本地应用简单、高效地调用服务器中的过程（服务）。它主要应用在分布式系统。如Hadoop中的IPC组件。但怎样实现一个RPC框架呢？
 
